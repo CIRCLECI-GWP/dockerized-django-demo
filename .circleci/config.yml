@@ -9,7 +9,7 @@ version: 2.1
 docker-auth: &docker-auth
   auth:
     username: $DOCKERHUB_USERNAME
-    password: $DOCKERHUB_PAT
+    password: $DOCKERHUB_PASSWORD
 
 orbs:
   codecov: codecov/codecov@3.2.2
