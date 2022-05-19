@@ -1,0 +1,10 @@
+# General
+# ------------------------------------------------------------------------------
+DEBUG=True
+SECRET_KEY=abcd
+
+DJANGO_ALLOWED_HOSTS=127.0.0.1,localhost,dockerized_django_demo_circleci.localhost
+
+# Redis
+# ------------------------------------------------------------------------------
+REDIS_URL=redis://redis:6379/0
