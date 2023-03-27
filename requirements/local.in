@@ -15,4 +15,4 @@ tblib==1.7.0  # https://github.com/ionelmc/python-tblib
 
 flake8==4.0.1  # https://github.com/PyCQA/flake8
 codecov==2.1.12 # http://github.com/codecov/codecov-python
-coverage==6.3.2  # https://github.com/nedbat/coveragepy
+coverage==7.2.2  # https://github.com/nedbat/coveragepy
